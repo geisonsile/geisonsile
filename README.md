@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Geison Leite! 👋
 
-## 🚀 Sobre Mim
+## 🎮 Sobre Mim
 Desenvolvedor de jogos com **mais de 7 anos de experiência** na criação de jogos e aplicativos interativos multiplataforma (Android, iOS e PC), com especialização em **Unity 3D (C#)**.
 
 Minha trajetória profissional me proporcionou uma base sólida em todo o ciclo de desenvolvimento, desde a programação de **gameplay** e estruturação de **UI**, até a **integração de APIs**, otimização de memória com **Unity Addressables** e colaboração em ambientes que utilizam **metodologias ágeis**.
@@ -23,7 +23,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho sólida exp
 
 ## 💼 Experiências em Destaque
 
-* **Desenvolvedor Unity 3D || Ambra** (08/2023 a 05/2025)
+* **Desenvolvedor Unity 3D 🏢 Ambra** (08/2023 a 05/2025)
     * Desenvolvimento de jogos de cassino (slot games) para o mercado internacional, focados na plataforma PC (Linux).
     * Desenvolvimento de gameplay, estruturação de interface de usuário.
     * Implementação de UI com **Unity UI Toolkit** e gerenciamento eficiente de assets com **Unity Addressables** para otimização de memória.
@@ -31,14 +31,14 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho sólida exp
     * Revisão de pull requests.
     * Colaboração em equipe multidisciplinar usando metodologia ágil 
 
-* **Desenvolvedor Unity 3D || Singol Games Educacionais (Kiduca)** (12/2018 a 01/2023)
+* **Desenvolvedor Unity 3D 🏢 Singol Games Educacionais (Kiduca)** (12/2018 a 01/2023)
     * Desenvolvimento de jogos mobile (Android e iOS) e para PC.
     * Responsável pela Programação de gameplay (mecânica dos jogos) e estruturação da UI a partir de protótipos até a versão final.
     * Utlização de Unity Addressables para carregamento dinâmico de assets
     * Integração de conteúdo dinâmico através de APIs Rest.
     * Colaboração em equipe multidisciplinar usando metodologia ágil 
 
-* **Desenvolvedor Unity 3D || SmarToys** (08/2016 a 02/2018)
+* **Desenvolvedor Unity 3D 🏢 SmarToys** (08/2016 a 02/2018)
     * Desenvolvimento de aplicativos mobile (Android e iOS) com foco em **Realidade Aumentada**.
 
 ## 📫 Onde me Encontrar
