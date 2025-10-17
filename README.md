@@ -19,7 +19,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho sólida exp
 * **Plataformas:** `Android`, `iOS`, `PC (Windows/Linux)`
 * **Ferramentas e Tecnologias Unity:** `Unity UI Toolkit`, `Unity Addressables`, `Realidade Aumentada`
 * **Versionamento:** `GitHub`, `Azure DevOps`
-* **Metodologias:** `Metodologia Ágil`, `Kanban` 
+* **Metodologia Ágil:** `Scrum`, `Kanban` 
 
 ## 💼 Experiências em Destaque
 
